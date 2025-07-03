@@ -2,3 +2,9 @@ h3{
     color: coral;
     font-family: 'Times New Roman', Times, serif;
 }
+p{
+    background-color: tomato;
+    padding-bottom: 10px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+}
